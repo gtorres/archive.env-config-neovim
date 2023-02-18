@@ -1,6 +1,4 @@
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
-
-vim.keymap.set("n", "<leader>pv", ":Ex<CR>")
 vim.keymap.set("n", "<leader>u", ":UndotreeShow<CR>")
 
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
