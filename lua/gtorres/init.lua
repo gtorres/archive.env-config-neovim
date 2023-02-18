@@ -1,2 +1,2 @@
-require("gtorres.remap")
 require("gtorres.set")
+require("gtorres.remap")
